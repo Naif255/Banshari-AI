@@ -1,0 +1,4 @@
+from components.dashboard import render_dashboard
+from components.ai_scanner import render_ai_scanner
+from components.logbook import render_logbook
+from components.dictionary import render_dictionary
